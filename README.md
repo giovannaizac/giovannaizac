@@ -7,7 +7,7 @@ Front-end developer em transição de carreira — da moda e fotografia para o d
 - 🎨 Venho da moda e fotografia — trago um olhar de UI/UX apurado para interfaces
 - 🚀 Concluí o bootcamp **Santander 2026 AI React Front-End (DIO)**, com React 19, TypeScript, Vite e integração com a API do Gemini
 - 🔭 Buscando oportunidades de **estágio/trainee em front-end e UI/UX**
-- 📫 Como me encontrar: [LinkedIn](#) · [email](#)
+- 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/giovannaizac) · [email](malito:giovannaizac2@hotmail.com)
 
 ---
 
